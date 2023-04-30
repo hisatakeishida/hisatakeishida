@@ -1,4 +1,4 @@
-I am a PhD student at Team CX, Australian Centre for Ecogenomics (ACE), School of Chemistry and Molecular Biosciences (SCMB), the University of Queensland (UQ).
+I am a PhD student at Team CX, Australian Centre for Ecogenomics (ACE), School of Chemistry and Molecular Biosciences (SCMB), the University of Queensland (UQ). https://cxchan.com/team/ 
 
 This contains my work from 
 - Undergraduate research project on developing mahcine learning pipeline (Variation Auto Encoder) to identify location of RNA modification (Epitranscriptome) of Effrenium voratum (dinoflagellate in the family Symbiodiniaceae)
